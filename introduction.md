@@ -1,3 +1,8 @@
+---
+title: Introduction
+layout: template
+filename: introduction.md
+--- 
 # 1. Introduction
 
 ## What is machine learning?
